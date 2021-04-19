@@ -13,3 +13,4 @@ https://edabit.com/challenge/vpSCPsQKcQwnFdMS4 --> RecursionCountTheDigits.java
 https://edabit.com/challenge/CKqfEowjmSTw2jsso --> SevenBoom.java
 https://edabit.com/challenge/qRRYmmyTRBhJJNMwq --> WordNests.java
 https://edabit.com/challenge/JYaLkHy8cHgCPXAvy --> FindTheDifference.java
+https://edabit.com/challenge/3iDnqHWoSgKzYerPZ --> TextTwist.java

@@ -3,8 +3,7 @@ public class FindTheDifference {
     public static char findTheDifference(String s, String t) {
 		for (char c : s.toCharArray())
         {
-            String temp = Character.toString(c);
-            t = t.replaceFirst(temp, "");
+            t = t.replaceFirst(Character.toString(c), "");
         }
         if (t.length() != 1)
         {
