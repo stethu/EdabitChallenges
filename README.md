@@ -15,3 +15,4 @@ https://edabit.com/challenge/qRRYmmyTRBhJJNMwq --> WordNests.java
 https://edabit.com/challenge/JYaLkHy8cHgCPXAvy --> FindTheDifference.java
 https://edabit.com/challenge/3iDnqHWoSgKzYerPZ --> TextTwist.java
 https://edabit.com/challenge/9P6yDuSZxYTihMtT6 --> VowelFamilies.java
+https://edabit.com/challenge/jfCsugyp9BSLYEtwb --> EdabitsEncryptionScheme.java
