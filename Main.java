@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(ReverseSort.reverseSort("You've rocked the pragmatic world in the making!"));
+        System.out.println(NicoCipher.nicoCipher("myworldevolvesinhers", "tesh"));
+        System.out.println(NicoCipher.nicoCipher("edabitisamazing", "matt"));
+        System.out.println(NicoCipher.nicoCipher("iloveher", "612345"));
     }
 }
