@@ -19,3 +19,4 @@ https://edabit.com/challenge/jfCsugyp9BSLYEtwb --> EdabitsEncryptionScheme.java
 https://edabit.com/challenge/qN7mnqKz6Y7WeMnLo --> TheCentrifugeProblem.java
 https://edabit.com/challenge/iZNdGSDXyRMmHrNNn --> ReverseSort.java
 https://edabit.com/challenge/9PfRkNR2Ersu2CwTG --> NicoCipher.java
+https://edabit.com/challenge/sLasdN8jqehbeqHtT --> OneTimePadTraining.java
